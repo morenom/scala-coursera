@@ -1,0 +1,1 @@
+Scala course assignments September 2013. Functional Programming Principles in Scala by Martin Odersky (École Polytechnique Fédérale de Lausanne)
